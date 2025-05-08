@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Experience Centres</name>
+    <description/>
+    <Style id="icon-1811-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1811-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1811-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1811-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1811-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>All Centres</name>
+      <Placemark>
+        <name>Fiordland Lodge</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKt86UgqBioX74tSaEFddtH9rZWutp1VSFpX5imdSwYewBT2yR8KZia3F5EzzcvzRYpHv11WugZeMPQiKFn6-0p90vB0Cq9v7ywxDTc72gDxGVTWFcGqLz63VW4NNzjO0P8cL_K7pnbkhfPMBzUG9KOUwFbM7xWMY44iuqyDOIgLrJdkV2Qjskxbm9L0a1x5gVhT7-pXzClNjopy5NIouQ5yDN2eHrRnsG_SgpfPmgfFQZXJvV5HkpxhmlA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Fiordland Lodge Te Anau<br>WEBSITE: https://www.fiordlandlodge.co.nz/the-lodge/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Fiordland Lodge Te Anau</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.fiordlandlodge.co.nz/the-lodge/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKt86UgqBioX74tSaEFddtH9rZWutp1VSFpX5imdSwYewBT2yR8KZia3F5EzzcvzRYpHv11WugZeMPQiKFn6-0p90vB0Cq9v7ywxDTc72gDxGVTWFcGqLz63VW4NNzjO0P8cL_K7pnbkhfPMBzUG9KOUwFbM7xWMY44iuqyDOIgLrJdkV2Qjskxbm9L0a1x5gVhT7-pXzClNjopy5NIouQ5yDN2eHrRnsG_SgpfPmgfFQZXJvV5HkpxhmlA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            167.7661028,-45.3804796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kamana Lakehouse</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKubOQZuXT3mR28SFvBGRHXRSXvNZWjfzjUb__nQcUUqbm-czs_Hf89J7krrQ50P813QuzGIEF6ZchJ-BvXstPbL7y-VdyqRamLNS_4BE9dwchkENCOExu-JqeLWAEJ7xpObX9YXDRdPsotYT08KHNxWf2yimDpZZyNf-nEt0bw2TQNmyBzVGRrVdrjoPdQd3K8kBzOqlzhNwnVjOcn_80QqFwWajc5sD92HtBPjWkgc4yWgE3LzPZjXjcY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Kamana Lakehouse<br>WEBSITE: https://kamana.co.nz/kamana-soak-tubs/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Kamana Lakehouse</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://kamana.co.nz/kamana-soak-tubs/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKubOQZuXT3mR28SFvBGRHXRSXvNZWjfzjUb__nQcUUqbm-czs_Hf89J7krrQ50P813QuzGIEF6ZchJ-BvXstPbL7y-VdyqRamLNS_4BE9dwchkENCOExu-JqeLWAEJ7xpObX9YXDRdPsotYT08KHNxWf2yimDpZZyNf-nEt0bw2TQNmyBzVGRrVdrjoPdQd3K8kBzOqlzhNwnVjOcn_80QqFwWajc5sD92HtBPjWkgc4yWgE3LzPZjXjcY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            168.6337507,-45.0388183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cottages at Lake Hayes</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKuHVMMcAD5XX4A_tqzuaqEJGL3Lw55PTJvtUGjVqFQcBU5AYwTp2N489x1LtEOdoqJ4ch3JgRGkNpoI5Lrq4dGXwogZC0gKIN4F85eElkz0Pm1qa9W8lXS7BxAvNgN2-d2zl85XXIZcrDIWmAYATCym-xv4AywHxo1HFU71gAVoBBvWAJ63a74nwbZ73vCR6tA74j1ZwiZweJLLSV6CLtXDbD_Ua-nWaE8EPvrRiDq04WChw-D3ZIK_L5s?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: The Cottages at Lake Hayes, Queenstown<br>WEBSITE: https://www.lakehayes.com/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>The Cottages at Lake Hayes, Queenstown</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.lakehayes.com/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKuHVMMcAD5XX4A_tqzuaqEJGL3Lw55PTJvtUGjVqFQcBU5AYwTp2N489x1LtEOdoqJ4ch3JgRGkNpoI5Lrq4dGXwogZC0gKIN4F85eElkz0Pm1qa9W8lXS7BxAvNgN2-d2zl85XXIZcrDIWmAYATCym-xv4AywHxo1HFU71gAVoBBvWAJ63a74nwbZ73vCR6tA74j1ZwiZweJLLSV6CLtXDbD_Ua-nWaE8EPvrRiDq04WChw-D3ZIK_L5s?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            168.793606,-44.9880712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>River Rock Estate</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKt6-6ghWqmMHfTJyTrDushKDL7BKzg_iXdxdNKkDEQU0Tv0MbDuwgPFFRq-zYbJjOoUlNgq07V_Jf6IGND_t9ksW5ohDffgS1KwFQYt-b2KyXtm7qJhX1kEz3_Jlgku-WpAsmQ799lkSQi9XScxMm09WINmZf3s03fYKXXeHde7rzsFDlWXK80nyrGhvz76z_efVC8C1oGglGUjBXfj5_BSzQ-yGSLr_yAhtIqAfsMPyX42hQvnCpDqNqc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: River Rock Estate<br>WEBSITE: https://www.riverrockestate.com/about-the-hot-pools]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>River Rock Estate</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.riverrockestate.com/about-the-hot-pools</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKt6-6ghWqmMHfTJyTrDushKDL7BKzg_iXdxdNKkDEQU0Tv0MbDuwgPFFRq-zYbJjOoUlNgq07V_Jf6IGND_t9ksW5ohDffgS1KwFQYt-b2KyXtm7qJhX1kEz3_Jlgku-WpAsmQ799lkSQi9XScxMm09WINmZf3s03fYKXXeHde7rzsFDlWXK80nyrGhvz76z_efVC8C1oGglGUjBXfj5_BSzQ-yGSLr_yAhtIqAfsMPyX42hQvnCpDqNqc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            169.203514,-45.0337192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Longridge Estate</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKtgpEjzHiUwky8fQc0SOsIjg4zHcBoLWQmLq7uBrsy1rkIdCL7vyjMNTjK8MtLWkP6yQm9iPEoF5uVn2WB8VqNPWaoviOa-faZfzJoPxqRL-uVUOx-B-9B8QKRSzGsy8Yms-hS5Cp8-mly7DwmXBGBzqfXlHcGMtW6x-0YxAeXANVdTdyUnYzK6xjQGOO1qdU-xSmvyyPHPVJYtYQWPRHB5w0qG1sEqu-XCKhIzdIVlIdUQiGTf6Qm-764?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Longridge Estate<br>WEBSITE: https://www.longridgeestate.co.nz/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Longridge Estate</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.longridgeestate.co.nz/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKtgpEjzHiUwky8fQc0SOsIjg4zHcBoLWQmLq7uBrsy1rkIdCL7vyjMNTjK8MtLWkP6yQm9iPEoF5uVn2WB8VqNPWaoviOa-faZfzJoPxqRL-uVUOx-B-9B8QKRSzGsy8Yms-hS5Cp8-mly7DwmXBGBzqfXlHcGMtW6x-0YxAeXANVdTdyUnYzK6xjQGOO1qdU-xSmvyyPHPVJYtYQWPRHB5w0qG1sEqu-XCKhIzdIVlIdUQiGTf6Qm-764?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            168.2807096,-46.4199961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cairns Accomodation,</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvKii_FCVTso1t1Nt2M9RYCkrdFnjlUV6zsXXV0Apc0eL-odgcN75jHI-wQyNymyEk8YeXQJsB75c2lFlykDZA5GFl4xOUFeUV2lg5j3tWOakJ_WcJqOPvK6dsczBVfZ-EKjEPd97ujgnyA5kUUd2FlD0Gm2b1uVYT6V34z0AiC2FXsQ06kRd1FSZL5ZcPAIuelnMI0xUkLFjNuhjT6FKocs26xqau6hK9mjacA5diyeluD3vO8k6AWE74?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: The Cairns Accomodation, Lake Tekapo<br>WEBSITE: https://www.thecairns.co.nz/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>The Cairns Accomodation, Lake Tekapo</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.thecairns.co.nz/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvKii_FCVTso1t1Nt2M9RYCkrdFnjlUV6zsXXV0Apc0eL-odgcN75jHI-wQyNymyEk8YeXQJsB75c2lFlykDZA5GFl4xOUFeUV2lg5j3tWOakJ_WcJqOPvK6dsczBVfZ-EKjEPd97ujgnyA5kUUd2FlD0Gm2b1uVYT6V34z0AiC2FXsQ06kRd1FSZL5ZcPAIuelnMI0xUkLFjNuhjT6FKocs26xqau6hK9mjacA5diyeluD3vO8k6AWE74?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            170.4714918,-44.0041476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skylark Cabin NZ</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvBZSwbcIn8hpHXr_KcYGVitspUutdkJj1fNzmSu1U4wDHQRYxgYcAzTZMgACWvrA9QtiWibKeE8j4sDNv1YKpkRqm7eO4-Nc6qObD8G9zXISGEOfy0pymcnYPlOghAJ7j6eoXN5MheO1fT8SmH5PXUxr0Fl-3cnh3AByK85klQ2GBPpWc-WHns1GSnqSOyINNV0n5FhKWufadsM14TXulFGMJa-Q9ONtAVUpOnY-U9PnaktPey1Aa1E2w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Skylark Cabin NZ<br>WEBSITE: https://www.skylarkcabin.co.nz]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Skylark Cabin NZ</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.skylarkcabin.co.nz</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvBZSwbcIn8hpHXr_KcYGVitspUutdkJj1fNzmSu1U4wDHQRYxgYcAzTZMgACWvrA9QtiWibKeE8j4sDNv1YKpkRqm7eO4-Nc6qObD8G9zXISGEOfy0pymcnYPlOghAJ7j6eoXN5MheO1fT8SmH5PXUxr0Fl-3cnh3AByK85klQ2GBPpWc-WHns1GSnqSOyINNV0n5FhKWufadsM14TXulFGMJa-Q9ONtAVUpOnY-U9PnaktPey1Aa1E2w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            170.0111407,-44.2474384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Hawea View</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKtFL4Kq71TMOhlmy6I11LcwYh2NABm6newl1sPQi7u5PmVTI0htxUdSJJ5VNA03C_PgCxjN1HJwihN6VN2OqVJEzQLq3wMQXro8Uv_kl15OuaWnItT4KS1Q_R4gJnipTNBqyJTNLWkUmQCa9_cmj9gYh30ryhgQMnBdiQZML_jusEpwQpFoWxhKLSyGIXUX8Kwnw9cZaxBZyQl7pkP7SVZzT_mI9UfYevBaPrsrbEiBSXP4EDW_TZtIvzE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Lake Hawea View<br>WEBSITE: https://lakehaweaview.co.nz/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Lake Hawea View</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://lakehaweaview.co.nz/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKtFL4Kq71TMOhlmy6I11LcwYh2NABm6newl1sPQi7u5PmVTI0htxUdSJJ5VNA03C_PgCxjN1HJwihN6VN2OqVJEzQLq3wMQXro8Uv_kl15OuaWnItT4KS1Q_R4gJnipTNBqyJTNLWkUmQCa9_cmj9gYh30ryhgQMnBdiQZML_jusEpwQpFoWxhKLSyGIXUX8Kwnw9cZaxBZyQl7pkP7SVZzT_mI9UfYevBaPrsrbEiBSXP4EDW_TZtIvzE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            169.2422113,-44.6090827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[NAME: Capella Lodge<br>WEBSITE: https://capellalodge.com.au/stay/makambo-loft/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Capella Lodge</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://capellalodge.com.au/stay/makambo-loft/</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -31.55007,90,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[NAME: 6Sixteen The Banks<br>WEBSITE: https://tinyaway.com/listing/6sixteen-the-banks/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>6Sixteen The Banks</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://tinyaway.com/listing/6sixteen-the-banks/</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -33.62992,90,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wild Luxury</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKu3E8JwpgDQgZpBOAH1vQw-mWcEpJ8aaTyBwmkx8tccNd5X5KU3gT_NZZ-73N8_nDA-TRAwH9tvzhNXKObYjusylSOXVH-ap3sYg2TX8yRYxqUI4NQXZ-E-NlDqZu-XBu1vtNhyJzKV66AAthEUpFGSaZNbpDb1ICmUGqRrFEOsdciXUBqJ3-BqxrRzv7j8lIryE3_p5rih_ShS8fspllrE7EYWcA1XTXFLnAJDSh22H6Al_ILNZKpdsWg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Wild Luxury<br>WEBSITE: https://www.wildluxury.co/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Wild Luxury</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.wildluxury.co/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKu3E8JwpgDQgZpBOAH1vQw-mWcEpJ8aaTyBwmkx8tccNd5X5KU3gT_NZZ-73N8_nDA-TRAwH9tvzhNXKObYjusylSOXVH-ap3sYg2TX8yRYxqUI4NQXZ-E-NlDqZu-XBu1vtNhyJzKV66AAthEUpFGSaZNbpDb1ICmUGqRrFEOsdciXUBqJ3-BqxrRzv7j8lIryE3_p5rih_ShS8fspllrE7EYWcA1XTXFLnAJDSh22H6Al_ILNZKpdsWg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            151.3313048,-33.6169393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[NAME: Kimo Estate<br>WEBSITE: https://www.kimoestate.com/ecohut-glamping-accommodation/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Kimo Estate</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.kimoestate.com/ecohut-glamping-accommodation/</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -35.07271,90,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[NAME: Glenayr Farm<br>WEBSITE: https://www.glenayrfarm.com.au/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Glenayr Farm</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.glenayrfarm.com.au/</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -32.75053,90,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mansi On Raymond</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKu0l6VfvRJO_tB6_cqflEatYrkF1Ml2nh9ekmXD5oSOH-qfs5iEmNMVjUoIEePv4LRRhzef2vtTWcIWfN9yQBQYdHHxtwD0i20hTWC0KpGxq7xrb2bqPz6HsUIwh0ISrgY_YSYNn-foa9Gs4yIDWjBjqynqU6YMNyQ0ccC6FtQSuqcRFUfjEXAUPonVuoYsot-HGxEUqlM8CRKDrZu4zcDuSumCJkVSFoUodH7_PShATgYFceejmQRAzNc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Mansi On Raymond<br>WEBSITE: https://www.mansi.com.au/stay-with-us/georgian-bathhouse/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Mansi On Raymond</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.mansi.com.au/stay-with-us/georgian-bathhouse/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKu0l6VfvRJO_tB6_cqflEatYrkF1Ml2nh9ekmXD5oSOH-qfs5iEmNMVjUoIEePv4LRRhzef2vtTWcIWfN9yQBQYdHHxtwD0i20hTWC0KpGxq7xrb2bqPz6HsUIwh0ISrgY_YSYNn-foa9Gs4yIDWjBjqynqU6YMNyQ0ccC6FtQSuqcRFUfjEXAUPonVuoYsot-HGxEUqlM8CRKDrZu4zcDuSumCJkVSFoUodH7_PShATgYFceejmQRAzNc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            147.0662536,-38.1017646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsdQycCzyAB1Ak8dc9rTtf-JdtUGsU_KM3Hm-r956Hq_D9SVTCBqMPwHgFVldcLmKgw5esVobXfmcRq2f7Bn1Y8nFFoU7RkLHvZDVvmD1VptmKbM415odmwksjH7SZBzFkx5SQouhlwq8RUUHxmLJCX9SdCKn1O8TMNEdPZnzHuwvdwgqypqjZ97nT5kH-bdJrHzrUOsQTOc0LHiCfl5tmKRsoGcjDLcTB5X7TuusnxMJeJg9FQXkzZ5Bg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Hill Street<br>WEBSITE: https://hillstreetblue.com/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Hill Street</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://hillstreetblue.com/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsdQycCzyAB1Ak8dc9rTtf-JdtUGsU_KM3Hm-r956Hq_D9SVTCBqMPwHgFVldcLmKgw5esVobXfmcRq2f7Bn1Y8nFFoU7RkLHvZDVvmD1VptmKbM415odmwksjH7SZBzFkx5SQouhlwq8RUUHxmLJCX9SdCKn1O8TMNEdPZnzHuwvdwgqypqjZ97nT5kH-bdJrHzrUOsQTOc0LHiCfl5tmKRsoGcjDLcTB5X7TuusnxMJeJg9FQXkzZ5Bg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            147.3129286,-42.8814822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKv1v-gBNN4XV1l8bClmmexhGNRYExgrfBx5rrOfZr1sMGWl7M1CjnFkOgJEN902zUfcPISquDkjVHTeBpd7fOE8pWtnt9uvv43s8hrPxHxWwqAAEklvTt4_-w7NEXIgcFMqAcb8hq9pkJ8VNHMLTPFK_Kid0WfMN-xcUePe6VWvFgeYf2Adl96FMF_3n0-e1trTtDgzF6ixB5rAC7rye5JeuYyQX12KjsEcRQy9esmpWWes1D6LmDNcGrk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Jimmy Doo<br>WEBSITE: https://jimmydoo.com.au/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Jimmy Doo</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://jimmydoo.com.au/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKv1v-gBNN4XV1l8bClmmexhGNRYExgrfBx5rrOfZr1sMGWl7M1CjnFkOgJEN902zUfcPISquDkjVHTeBpd7fOE8pWtnt9uvv43s8hrPxHxWwqAAEklvTt4_-w7NEXIgcFMqAcb8hq9pkJ8VNHMLTPFK_Kid0WfMN-xcUePe6VWvFgeYf2Adl96FMF_3n0-e1trTtDgzF6ixB5rAC7rye5JeuYyQX12KjsEcRQy9esmpWWes1D6LmDNcGrk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            148.556451,-36.4509011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodland Bay Retreat</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsQr_VF6JBsrwaKOZidq4s7nxBJ0i9IbdQXYbv82OsRQpJ--4lKPfAsmvfafo-8bdiKN5iS-JmKr3usATAxQryV7c1E4aqvRIxqTxdwKUBlpNMJLesY_r_YbvQbK6Lqph3ei9N0XxiQ0NwMERPKKYpQWHg3lx0Eutj00EuPQK9UhduvIHFp07oQHsYLj7mozvm9x0B65jB-LWB5I5HaZZbFPF1DXrpMCwzEDztM9pg4m5Mr-QkoXe8ee9I?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Woodland bay retreat<br>WEBSITE: https://www.woodlandbayretreat.com.au/wellness-area]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Woodland bay retreat</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.woodlandbayretreat.com.au/wellness-area</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsQr_VF6JBsrwaKOZidq4s7nxBJ0i9IbdQXYbv82OsRQpJ--4lKPfAsmvfafo-8bdiKN5iS-JmKr3usATAxQryV7c1E4aqvRIxqTxdwKUBlpNMJLesY_r_YbvQbK6Lqph3ei9N0XxiQ0NwMERPKKYpQWHg3lx0Eutj00EuPQK9UhduvIHFp07oQHsYLj7mozvm9x0B65jB-LWB5I5HaZZbFPF1DXrpMCwzEDztM9pg4m5Mr-QkoXe8ee9I?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            147.1261088,-43.1862468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MEND Margaret River</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsqSmvRJd6IpUOE-g68J_y2QuseyAsc_J4FsTbmChkKU0Bl_LHkgbE-Cwh8R1vZjuM_tOWg6lTg4LES0hQucsbePAyNsEELLEJTiiGlMJ_GE0LpVRgqTr1oKk3Rw5aP3t--tiisoBLY9v1c2uvxRk9HClog-e-7J8dz1Q5V0m8kTMg5hkku0aDFO2mGIEgRdOp5QFSKDgylaJBIiw1IacDwskV9z78xqLLZM1L_vLPVkfTvv-mjlhZ2sWk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: MEND Margaret River<br>WEBSITE: https://mendmargaretriver.com.au/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>MEND Margaret River</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://mendmargaretriver.com.au/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsqSmvRJd6IpUOE-g68J_y2QuseyAsc_J4FsTbmChkKU0Bl_LHkgbE-Cwh8R1vZjuM_tOWg6lTg4LES0hQucsbePAyNsEELLEJTiiGlMJ_GE0LpVRgqTr1oKk3Rw5aP3t--tiisoBLY9v1c2uvxRk9HClog-e-7J8dz1Q5V0m8kTMg5hkku0aDFO2mGIEgRdOp5QFSKDgylaJBIiw1IacDwskV9z78xqLLZM1L_vLPVkfTvv-mjlhZ2sWk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0741542,-33.9483049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gilay Estate
+</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKuP8Dc-YzWFVAOXpox-SfZW1ysypP1cHToa1atp0GQeAREEfm9v8fdKTaVfkpAZy3yVKp2zT5knhVG335qugXCYXAbles8QYGQX7_UJVoLlBUfNDG_f_FVp05bijR78s18XIa3M1ILsQJVNwWSJMt6Bb4ifqHO0znRFzxl_OB7R0ewCFVLoeNCZS4rbjidQAfAUZ15_9B19N5yva8ychPLYU6nLM1OIscMPm4ctjeAvOWcrUb2v18z9w7E?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Gilay Estate<br>WEBSITE: https://gilayestate.com/gift/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Gilay Estate</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://gilayestate.com/gift/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKuP8Dc-YzWFVAOXpox-SfZW1ysypP1cHToa1atp0GQeAREEfm9v8fdKTaVfkpAZy3yVKp2zT5knhVG335qugXCYXAbles8QYGQX7_UJVoLlBUfNDG_f_FVp05bijR78s18XIa3M1ILsQJVNwWSJMt6Bb4ifqHO0znRFzxl_OB7R0ewCFVLoeNCZS4rbjidQAfAUZ15_9B19N5yva8ychPLYU6nLM1OIscMPm4ctjeAvOWcrUb2v18z9w7E?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            150.7170292,-31.5029947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvY58tJOvjcxPaI_qAKEgQ-FEwWYA2ZYxKhq3ezGX4ulixBiN9nrJmvVF4h_TjdtPKDy9wAKg_Pq4zJLc9qq2fGiKUK1kj6W7fXx9K_-HKDnvogCOhDTwtHo40nmQh_rYhVhvtytM9mIO-goKvLcIoeUYnVAinLmNqHe251sHjmI0OoQBy6rQdvRCDZZiglfA991KCjzQO6SOI8qnLM8A24AWSZkbe8UiKz49F7Fq3VWhpn0V2WW6kvbE8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Motel Maclean<br>WEBSITE: https://motelmaclean.com/facilities/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Motel Maclean</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://motelmaclean.com/facilities/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvY58tJOvjcxPaI_qAKEgQ-FEwWYA2ZYxKhq3ezGX4ulixBiN9nrJmvVF4h_TjdtPKDy9wAKg_Pq4zJLc9qq2fGiKUK1kj6W7fXx9K_-HKDnvogCOhDTwtHo40nmQh_rYhVhvtytM9mIO-goKvLcIoeUYnVAinLmNqHe251sHjmI0OoQBy6rQdvRCDZZiglfA991KCjzQO6SOI8qnLM8A24AWSZkbe8UiKz49F7Fq3VWhpn0V2WW6kvbE8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            153.2042541,-29.4690323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Driftaway Queenstown</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKs90zR39lar_FgXaZGxJWjoDVpOYLkVS2zg5uQCZ3FMMT2tHNakYry9xLp8S82r3IuZE6XVjHBZlnBinPs001XbuXRJMt7qfVv_y79pHQi5t5Nomxwj7hbEssY_5pBsQR6IpMh4YZQsBeyLXhV5sYMbGrqmRuT6dRm-jcUNhHWyX598GbfJ1VJ9NXVmy_J03t-VTiOht4uxDps9H-lR4Td-xr7x9cJo8zKn1-nt0fGwYEg3OCC_OYmTjHc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Driftaway Queenstown<br>WEBSITE: https://www.driftawayqueenstown.co.nz/park-facilities/hot-tub/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Driftaway Queenstown</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.driftawayqueenstown.co.nz/park-facilities/hot-tub/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKs90zR39lar_FgXaZGxJWjoDVpOYLkVS2zg5uQCZ3FMMT2tHNakYry9xLp8S82r3IuZE6XVjHBZlnBinPs001XbuXRJMt7qfVv_y79pHQi5t5Nomxwj7hbEssY_5pBsQR6IpMh4YZQsBeyLXhV5sYMbGrqmRuT6dRm-jcUNhHWyX598GbfJ1VJ9NXVmy_J03t-VTiOht4uxDps9H-lR4Td-xr7x9cJo8zKn1-nt0fGwYEg3OCC_OYmTjHc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            168.7261996,-45.0171351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cove Tasmania</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKv3aG5ltEqXUjKIijx1p0kokue0kPFPoEE3ngio9raq84vyI4ow66_-sr-EXIMppqsiMvaph3ac8hfrYUQxWmeSNcsKMwa8Vw7d1isQZBt2YVMxlU5xnIiZpQZtNHzhU5PsrB-ypehLZEA1XthoKdUg9Vm0-IdJjf_AYnNVuzJkAxXnS6p4ycfax1zCcFq2cy9efgRmRHI4dhWIBeGGRrEsAf1zppau6WQQqvhhY3DsYQzaYSRkk4TqN2g?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: The Cove Tasmania<br>WEBSITE: https://www.thecovetasmania.com/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>The Cove Tasmania</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.thecovetasmania.com/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKv3aG5ltEqXUjKIijx1p0kokue0kPFPoEE3ngio9raq84vyI4ow66_-sr-EXIMppqsiMvaph3ac8hfrYUQxWmeSNcsKMwa8Vw7d1isQZBt2YVMxlU5xnIiZpQZtNHzhU5PsrB-ypehLZEA1XthoKdUg9Vm0-IdJjf_AYnNVuzJkAxXnS6p4ycfax1zCcFq2cy9efgRmRHI4dhWIBeGGRrEsAf1zppau6WQQqvhhY3DsYQzaYSRkk4TqN2g?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            146.3105504,-41.1585814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wanaka Homestead Lodge and Cottages</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKtKjyXgrbeeJBtcXMMOm8GXVS5Zg0oFAYeJWxFGHDygzmZiZ7UBz3M87ZZcWiHheeUs4KFFUGoTqG5jy3tKU2RvF2fEohT7Nfyb2z3wFDwsgGSO2Xxl6TlVQYv8euEDjfB7ssYL8Sl5V1NxPuz6MvU7_GcHYkiAmBzHjRIaZZF0gqDD2viSPwpI_77rLOx9RAQxqovVAjYNllg0ofuUh1vaSOqVTNDsrA4rKGg2dy6wIF9jkRitHhOsZzI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Wanaka Homestead Lodge and Cottages<br>WEBSITE: www.wanakahomestead.co.nz]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Wanaka Homestead Lodge and Cottages</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>www.wanakahomestead.co.nz</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKtKjyXgrbeeJBtcXMMOm8GXVS5Zg0oFAYeJWxFGHDygzmZiZ7UBz3M87ZZcWiHheeUs4KFFUGoTqG5jy3tKU2RvF2fEohT7Nfyb2z3wFDwsgGSO2Xxl6TlVQYv8euEDjfB7ssYL8Sl5V1NxPuz6MvU7_GcHYkiAmBzHjRIaZZF0gqDD2viSPwpI_77rLOx9RAQxqovVAjYNllg0ofuUh1vaSOqVTNDsrA4rKGg2dy6wIF9jkRitHhOsZzI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            169.1156448,-44.7006601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BUNKER HOUSE</name>
+        <description><![CDATA[NAME: <br>WEBSITE: ]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value/>
+          </Data>
+          <Data name="WEBSITE">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            150.8329074,-34.7444431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[LandEscape Wanaka eBikes & Hot Tubs]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsX2C6cWQ4Lzc0gViGyXFmmo_km3VMzv-LlL_E0bwU01kPlKjeJyeXyfYWnZw0EfobMQpgabQafdrXW4Rcw4-xlqtnwl7wN2abqqyiOJFnz8CLsoyE3zWmM4ajYH0wKJ-CYxwxyHbNxKvBwXFtJRLDYHpbfy1X0L0Op4MhrJHuwt2Tw9QEJqCSbMKK5E3ch2eKUMbhDRsKR1iNphhxpJRDCj8Q7Ce3PdhdIJ6_uoXO55g77TjmEGaXaRPo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: LandEscape Wanaka eBikes & Hot Tubs<br>WEBSITE: https://landescape-wanaka.nz/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value><![CDATA[LandEscape Wanaka eBikes & Hot Tubs]]></value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://landescape-wanaka.nz/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsX2C6cWQ4Lzc0gViGyXFmmo_km3VMzv-LlL_E0bwU01kPlKjeJyeXyfYWnZw0EfobMQpgabQafdrXW4Rcw4-xlqtnwl7wN2abqqyiOJFnz8CLsoyE3zWmM4ajYH0wKJ-CYxwxyHbNxKvBwXFtJRLDYHpbfy1X0L0Op4MhrJHuwt2Tw9QEJqCSbMKK5E3ch2eKUMbhDRsKR1iNphhxpJRDCj8Q7Ce3PdhdIJ6_uoXO55g77TjmEGaXaRPo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            169.2311232,-44.652437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lakes Edge Holiday Park</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsE42Pk7O0bapcKpySlnpUTSCuthE0CDf3WNqONdhJN_6KEko6Nfh5JstnuzsUzFvhRWIQ0lyCIs6qAk6nU404XkXSOy_TXm9jUmCnBMMDMuutaQ_MzJUgcq6GMoyet1zy5DDjRpnVPdWPfN_qFR7UTDwpVjqmu39VmS60j2aQDTApFYHki_YHUrx4Ws0EmoT-21XmebECJ5KOW5paPDSIMPunypnGYmerQ37g5FUICeMnSzOjqLFeZZf4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Lakes Edge Holidy Park <br>WEBSITE: https://lakesedgeholidaypark.co.nz/the-huts/studio-huts]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Lakes Edge Holidy Park </value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://lakesedgeholidaypark.co.nz/the-huts/studio-huts</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsE42Pk7O0bapcKpySlnpUTSCuthE0CDf3WNqONdhJN_6KEko6Nfh5JstnuzsUzFvhRWIQ0lyCIs6qAk6nU404XkXSOy_TXm9jUmCnBMMDMuutaQ_MzJUgcq6GMoyet1zy5DDjRpnVPdWPfN_qFR7UTDwpVjqmu39VmS60j2aQDTApFYHki_YHUrx4Ws0EmoT-21XmebECJ5KOW5paPDSIMPunypnGYmerQ37g5FUICeMnSzOjqLFeZZf4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            170.4645831,-44.0007675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nest Tree Houses</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsWIkIu_ODNvh7PgFDHFWhDRYH4XNneyk645m1OsOGUS4JvC7ReRqdqkL8uJYy45vN_3I9guTm7RbqqOc4BNGNrOieIROfn6mVJ7O2PR9KLK-8dMGm8fv3coOdj8jQa5gYL_bHItiyAjN7KPewl_m61BPifQUapKzablCVZG0jE__9iCZzDCy9CxcRrFAb7wuXJ41mnZRjoYnWT9cKgk1-mu_PPeP2cxzRsD5XJpVvETZ7MKT2A72Z0ba0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Nest Tree Houses<br>WEBSITE: www.nesttreehouses.com]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Nest Tree Houses</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>www.nesttreehouses.com</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsWIkIu_ODNvh7PgFDHFWhDRYH4XNneyk645m1OsOGUS4JvC7ReRqdqkL8uJYy45vN_3I9guTm7RbqqOc4BNGNrOieIROfn6mVJ7O2PR9KLK-8dMGm8fv3coOdj8jQa5gYL_bHItiyAjN7KPewl_m61BPifQUapKzablCVZG0jE__9iCZzDCy9CxcRrFAb7wuXJ41mnZRjoYnWT9cKgk1-mu_PPeP2cxzRsD5XJpVvETZ7MKT2A72Z0ba0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            170.4631149,-44.6869692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SkyScape</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsMByYPqZq5L3jyiZInzPpkLeSbbg3zZSFF_iJtnzFkvV__kx8VdK3FqxaZXedS8iTmk6mmAmYf-FH17Z90dbwdXdamyva8QMHJwu47DDn9i9RA0-ZJ7tlq8y664fRdYVzBztZiuniKNqAyscV4Lep0NPLC1m-joRelhmCzl3M8wTFqLm2YuOixqnahd1ea6CSUxjod5FdmTPm8Cu2YornVZq3ihfVi13vDF5amepzcDdxhN3IHzgf5Gx4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: SkyScape<br>WEBSITE: www.skyscape.co.nz]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>SkyScape</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>www.skyscape.co.nz</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsMByYPqZq5L3jyiZInzPpkLeSbbg3zZSFF_iJtnzFkvV__kx8VdK3FqxaZXedS8iTmk6mmAmYf-FH17Z90dbwdXdamyva8QMHJwu47DDn9i9RA0-ZJ7tlq8y664fRdYVzBztZiuniKNqAyscV4Lep0NPLC1m-joRelhmCzl3M8wTFqLm2YuOixqnahd1ea6CSUxjod5FdmTPm8Cu2YornVZq3ihfVi13vDF5amepzcDdxhN3IHzgf5Gx4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            170.0322755,-44.2407936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Canopy Camping Escapes - Bellbird Barn</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsA7L6En_sUHCkW9Pep7aD2J6iXFl0ga4vwDJ0N0vKASJLvK60GkksSmyl_-93bTjADmrYp2JMH-Zwl4jfeMHLcgPKLFND4B179ZrKOTSbB954jHZ2oh0hqrfk1SB8lIElKuaMvYyaQERPrfXMoUHIly3rdEa6p_9ysdoCQoKR82ykVoJE3kSzt6Vn8yAdGdnAQG4M3m8jQ0gkiW-FkiZrPoCtpaF-MA0ateEdwqatlpjS62RNSkrzdkZ8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Canopy Camping Escapes<br>WEBSITE: canopycamping.co.nz]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Canopy Camping Escapes</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>canopycamping.co.nz</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsA7L6En_sUHCkW9Pep7aD2J6iXFl0ga4vwDJ0N0vKASJLvK60GkksSmyl_-93bTjADmrYp2JMH-Zwl4jfeMHLcgPKLFND4B179ZrKOTSbB954jHZ2oh0hqrfk1SB8lIElKuaMvYyaQERPrfXMoUHIly3rdEa6p_9ysdoCQoKR82ykVoJE3kSzt6Vn8yAdGdnAQG4M3m8jQ0gkiW-FkiZrPoCtpaF-MA0ateEdwqatlpjS62RNSkrzdkZ8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            171.1815107,-44.009551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Lindis | Luxury Resort | New Zealand</name>
+        <description><![CDATA[NAME: The Lindis<br>WEBSITE: https://www.thelindisgroup.com/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>The Lindis</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.thelindisgroup.com/</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            169.6616388,-44.3907603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Washpen Falls</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKtJFkucD96LajjudKaoYLkD1GXrx3cIMCpz-Pw8SWGESrRh8v9Bm0yTe0Hrlqe-wUp9UsXtINbwTF6sYpAM7_FVGt38OgwmCPn6Dbtwmtl-RAmbZG_yXqmATW6IAXc0MggSxqVZ6mgVk_f9pIj0uIefyB4weFx1Sapt_eAKpmY6Km2zOfhokZ73socBlIM5PnaY71AQc_qKrRo_TtyDbsqB5ESSgUoULrF_yiQrLGoNx4GSanYVCY3TgEw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Washpen Falls <br>WEBSITE: https://www.washpenfalls.co.nz/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Washpen Falls </value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.washpenfalls.co.nz/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKtJFkucD96LajjudKaoYLkD1GXrx3cIMCpz-Pw8SWGESrRh8v9Bm0yTe0Hrlqe-wUp9UsXtINbwTF6sYpAM7_FVGt38OgwmCPn6Dbtwmtl-RAmbZG_yXqmATW6IAXc0MggSxqVZ6mgVk_f9pIj0uIefyB4weFx1Sapt_eAKpmY6Km2zOfhokZ73socBlIM5PnaY71AQc_qKrRo_TtyDbsqB5ESSgUoULrF_yiQrLGoNx4GSanYVCY3TgEw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            171.7305025,-43.4970133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wanaka Homestead Lodge and Cottages</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKs_dzzICVSimXSpyhiA1a_7fwSfaNOjeCkdjF-rpAj86y_6v9wOgSrmy2ZOtwv4FEUY4nkJ86uexUvlUL6tBob99t3BdZP6tbjSPEdzxT9v-ClNj_DT1V18NI3yl_BD9k93jgp-HsP-Yncqht6av8hQ4w1i66fiUUvFJ0TICaIaOR0isl_zGiTJOKv0zdCXfq1YdDEZWOWpk39pKP1yewEvgfVHymez-hv73ttzdl95aaareMfHAW1sY2w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Wanaka Homestead Lodge and Cottages<br>WEBSITE: https://www.wanakahomestead.co.nz/project/the-lodge]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Wanaka Homestead Lodge and Cottages</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.wanakahomestead.co.nz/project/the-lodge</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKs_dzzICVSimXSpyhiA1a_7fwSfaNOjeCkdjF-rpAj86y_6v9wOgSrmy2ZOtwv4FEUY4nkJ86uexUvlUL6tBob99t3BdZP6tbjSPEdzxT9v-ClNj_DT1V18NI3yl_BD9k93jgp-HsP-Yncqht6av8hQ4w1i66fiUUvFJ0TICaIaOR0isl_zGiTJOKv0zdCXfq1YdDEZWOWpk39pKP1yewEvgfVHymez-hv73ttzdl95aaareMfHAW1sY2w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            169.1156448,-44.7006601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bunker House </name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsjpL-YBP6zMGGYJjmk6UfJGk0kyWkesw5HEkscF9wMZA2TSDej2hogxZAkU0bmE5osYEwVKm5edJmnrIa_j0_cRdoquxaX1n-nbZ6E2j69bveuIM23GPiYhnu40DJe85AnRSghzU5FPRpkKeczd1N5yegmMwYtrb5chWozMZ6s808-5QC-XfGAUn6Lv4_9IkJIBjZ2IuUK24REtIhg2lykD5sdEGJ_GN6zxDffMeGj-RHzmXKEu6klLDI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Bunker House<br>WEBSITE: https://www.bunkerhouse.co.nz/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Bunker House</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.bunkerhouse.co.nz/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsjpL-YBP6zMGGYJjmk6UfJGk0kyWkesw5HEkscF9wMZA2TSDej2hogxZAkU0bmE5osYEwVKm5edJmnrIa_j0_cRdoquxaX1n-nbZ6E2j69bveuIM23GPiYhnu40DJe85AnRSghzU5FPRpkKeczd1N5yegmMwYtrb5chWozMZ6s808-5QC-XfGAUn6Lv4_9IkJIBjZ2IuUK24REtIhg2lykD5sdEGJ_GN6zxDffMeGj-RHzmXKEu6klLDI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            170.4778545,-43.9223244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[LandEscape Wanaka eBikes & Hot Tubs]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvi25Fj5zMJqvNcq5WSNKGle2I2mQIcRjpQ2pbIpll66acZEVovhxhcfuquWbz-swwnCYZTrDa24aMXjAlJ5HfjqggkhDyNwDr81NJa_et-auur8WakhfYJH4LVkqZpfH-QfITfp39eAA5ARKcjB4eF8T_zkzIM_lBYRyjyf4oYkf4HGPPMlkByyTI3SYBy2VJtRmnwMNPmupySoiIRgjb4kCGtLvbwOLiVN_ib6IMI1Dyc97Z9oTBZc8M?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Land Escape Wanaka<br>WEBSITE: https://landescape-wanaka.nz/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Land Escape Wanaka</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://landescape-wanaka.nz/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvi25Fj5zMJqvNcq5WSNKGle2I2mQIcRjpQ2pbIpll66acZEVovhxhcfuquWbz-swwnCYZTrDa24aMXjAlJ5HfjqggkhDyNwDr81NJa_et-auur8WakhfYJH4LVkqZpfH-QfITfp39eAA5ARKcjB4eF8T_zkzIM_lBYRyjyf4oYkf4HGPPMlkByyTI3SYBy2VJtRmnwMNPmupySoiIRgjb4kCGtLvbwOLiVN_ib6IMI1Dyc97Z9oTBZc8M?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            169.2311232,-44.652437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oasis Yurt Lodge</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKtY8FGPlMiGXX1JoLK13wzGTmz092sqyiIekocFf3nlMkea5_Wry0GCTenyX_RHLdVqg24-S-c0QJiVKtqtihYdO1h_Vf4LP8IU9NGt4YAPiLwsQgphDEo5A6qm5B-L2IwebXzHyCHmSGEt1Quy8jU5t8Pr7qIZSHDUmumf4eGlsfvaHDUTrRp71UuCgjFsDOM4hZPumOrVYOsjTvs_fHEaGudhzoGCLMtwkzePub-EeJEUKoqbaH8KFb8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Oasis Yurt Lodge<br>WEBSITE: https://www.oasiswanaka.co.nz/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Oasis Yurt Lodge</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.oasiswanaka.co.nz/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKtY8FGPlMiGXX1JoLK13wzGTmz092sqyiIekocFf3nlMkea5_Wry0GCTenyX_RHLdVqg24-S-c0QJiVKtqtihYdO1h_Vf4LP8IU9NGt4YAPiLwsQgphDEo5A6qm5B-L2IwebXzHyCHmSGEt1Quy8jU5t8Pr7qIZSHDUmumf4eGlsfvaHDUTrRp71UuCgjFsDOM4hZPumOrVYOsjTvs_fHEaGudhzoGCLMtwkzePub-EeJEUKoqbaH8KFb8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            169.1654213,-44.7041859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minaret Station</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKtRz_Obzfi0KBsZ9txZvIEbpP00PWzHdoAXCvFFZOui_REP53JXwoZico-BvhDca_QSlUP8p19WS7CYb8EfU0tzwZiwbGnjPrV7IeIWrC_7o8lXgZFoLoxoCcmhqgKknh0K93BBZmrZLMaa7SaWPqrUfFinFrcw4SD1LvQXZUFrrm9SXo67zyo9sjZlUoY4a8zAJ77Stk7v03q2odERd0v5YQqni2LnGeLx1MxX0G3LEV0gu_GJtmCRo40?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Minaret Station<br>WEBSITE: https://minaretstation.com/alpine-lodge]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Minaret Station</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://minaretstation.com/alpine-lodge</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKtRz_Obzfi0KBsZ9txZvIEbpP00PWzHdoAXCvFFZOui_REP53JXwoZico-BvhDca_QSlUP8p19WS7CYb8EfU0tzwZiwbGnjPrV7IeIWrC_7o8lXgZFoLoxoCcmhqgKknh0K93BBZmrZLMaa7SaWPqrUfFinFrcw4SD1LvQXZUFrrm9SXo67zyo9sjZlUoY4a8zAJ77Stk7v03q2odERd0v5YQqni2LnGeLx1MxX0G3LEV0gu_GJtmCRo40?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            169.2445282,-44.7235617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Cross Hill Lodge & Domes]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKv9sdBznVO5jCOAMxXSvmZYqKeCwmuiEh5d9IlsCGKB0EQIowbjgOGTkxEE5IISrQFdavArDVRtTsbstk8eCgEUYdTrD3wi0YnoZc5iHaDv_rpUxIa9QExKy4zNs3IwJAzc9O41-_MZodMZNSlm4MRnbSY_CN-3Jtkn2cEndZRp7aLIZf_etm0grqNK3VIbsSGOlT4Y5zzpKGS8ndMYDdQuto0GjE_yoI1VSXX2bWA5d5aTwr8GC2ck6Lg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Cross Hill Lodge & Domes<br>WEBSITE: https://crosshill.co.nz/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value><![CDATA[Cross Hill Lodge & Domes]]></value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://crosshill.co.nz/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKv9sdBznVO5jCOAMxXSvmZYqKeCwmuiEh5d9IlsCGKB0EQIowbjgOGTkxEE5IISrQFdavArDVRtTsbstk8eCgEUYdTrD3wi0YnoZc5iHaDv_rpUxIa9QExKy4zNs3IwJAzc9O41-_MZodMZNSlm4MRnbSY_CN-3Jtkn2cEndZRp7aLIZf_etm0grqNK3VIbsSGOlT4Y5zzpKGS8ndMYDdQuto0GjE_yoI1VSXX2bWA5d5aTwr8GC2ck6Lg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            169.2453786,-44.6048146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whare Kea Lodge</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvjxOvIkBPI38MulD1CqfaXfycExQwMy5_99qBigBOzwYG1G0FI8n-ShoqM3PwThYzEq2KZGzC8ASLuIRSEAfuk1U6H88sKBz7RgotD5JD1yqPFR_QW6RuC_dFIBTKpShBHur4-MKXRxIcDlZxVegP_wSnpjqeFrhpNVJcLLo_z5xSCq-NVocXEAi42upbNs3PZ0ur10M5Od-HkQqEQRQqCQcRzptOmTD4OOU7DB7x_e1joLVo7nYbjlDY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Whare Kea Lodge<br>WEBSITE: https://www.wharekealodge.com/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Whare Kea Lodge</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://www.wharekealodge.com/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvjxOvIkBPI38MulD1CqfaXfycExQwMy5_99qBigBOzwYG1G0FI8n-ShoqM3PwThYzEq2KZGzC8ASLuIRSEAfuk1U6H88sKBz7RgotD5JD1yqPFR_QW6RuC_dFIBTKpShBHur4-MKXRxIcDlZxVegP_wSnpjqeFrhpNVJcLLo_z5xSCq-NVocXEAi42upbNs3PZ0ur10M5Od-HkQqEQRQqCQcRzptOmTD4OOU7DB7x_e1joLVo7nYbjlDY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            169.0793193,-44.6802716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Above & Beyond High Country Huts]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKuCwdzNvjxBn11z1gmM38zh7vkJGjjUQ4yPxCybVe9whvI52ufMPyVFvuxGtcHtK-Z8Dvw8NnoLkI1qUxya0h1Zsfs1TqYGddGL5mDcQtr_dICM_jXfHQJ6Ph7KuBqL3cvD7x2cQw9BXIuYB_WVPQ3iS0Sib36qvSdHqMH0-_lxt1KJVVQW9YnOW_Up7-qEuM1raGRw2BqK6QTRPpk9eA45iSQe4JCMKvVfhGtPPT-pdKiHx7GNNoo_qGs?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Above & Beyond High Country Huts<br>WEBSITE: https://goabovebeyond.nz/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value><![CDATA[Above & Beyond High Country Huts]]></value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://goabovebeyond.nz/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKuCwdzNvjxBn11z1gmM38zh7vkJGjjUQ4yPxCybVe9whvI52ufMPyVFvuxGtcHtK-Z8Dvw8NnoLkI1qUxya0h1Zsfs1TqYGddGL5mDcQtr_dICM_jXfHQJ6Ph7KuBqL3cvD7x2cQw9BXIuYB_WVPQ3iS0Sib36qvSdHqMH0-_lxt1KJVVQW9YnOW_Up7-qEuM1raGRw2BqK6QTRPpk9eA45iSQe4JCMKvVfhGtPPT-pdKiHx7GNNoo_qGs?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            171.401638,-43.7055086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fiordland Eco-Retreat</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvB2GfTvGXgPcFw0dlHMS3uXZP2Brpja9Tozu1xW_zCl3XjfbkNqUog55gyC5cWjvFbpB64mHdS8YzGd2A8NaKbmkEyL10WIAGQf73WlsDeQOQPgN9Tc6G0a-XOaEKRsgaFhd0_-qSfjqNxRmIxSc6_S4L9Nn9wlgoyL4XIPhKDOQIxzqiIKkv4ZEhsTBI6YrVdKIYiiukIPx37lZpt80vXSchva9D8WCmq_pKFfntP_PAlBPugJL17OZM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>NAME: Fiordland Eco-Retreat<br>WEBSITE: https://fiordlandecoretreat.com/]]></description>
+        <styleUrl>#icon-1811-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="NAME">
+            <value>Fiordland Eco-Retreat</value>
+          </Data>
+          <Data name="WEBSITE">
+            <value>https://fiordlandecoretreat.com/</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvB2GfTvGXgPcFw0dlHMS3uXZP2Brpja9Tozu1xW_zCl3XjfbkNqUog55gyC5cWjvFbpB64mHdS8YzGd2A8NaKbmkEyL10WIAGQf73WlsDeQOQPgN9Tc6G0a-XOaEKRsgaFhd0_-qSfjqNxRmIxSc6_S4L9Nn9wlgoyL4XIPhKDOQIxzqiIKkv4ZEhsTBI6YrVdKIYiiukIPx37lZpt80vXSchva9D8WCmq_pKFfntP_PAlBPugJL17OZM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            167.7629912,-45.4379448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
