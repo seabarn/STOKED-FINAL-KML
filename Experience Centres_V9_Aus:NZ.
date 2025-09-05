@@ -1187,7 +1187,7 @@
             <value>Capella Lodge</value>
           </Data>
           <Data name="WEBSITE">
-            <value>https://capellalodge.com.au</value>
+            <value><![CDATA[https://capellalodge.com.au]]></value>
           </Data>
           <Data name="gx_media_links">
             <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvcqIAh8FZaKE-6mwajG3njdN10llDu2mPJA2VKO9W5AEmWUsfoDZDqBXpdbK2OogK8VYPgiLmPU1rEPZ23Udw3A8krfdUrHd954HpY52DSPuImftzOE1OUfPHDzeqsx2hI9Cf0M4MIr_Y6Uh-fVDmT6z0mxjoykxYAH5_g-bFJAoTumQQzqONkb5JgfQ22jbnOPHFe1EyoKFyWKV2ek5DCcJ-uPOXUXn9PqVKPWe8LFAXmy_Gfx9e0cQQ?authuser=2&fife=s16383]]></value>
