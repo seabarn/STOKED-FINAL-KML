@@ -1179,27 +1179,31 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Capella Lodge</name>
-        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvcqIAh8FZaKE-6mwajG3njdN10llDu2mPJA2VKO9W5AEmWUsfoDZDqBXpdbK2OogK8VYPgiLmPU1rEPZ23Udw3A8krfdUrHd954HpY52DSPuImftzOE1OUfPHDzeqsx2hI9Cf0M4MIr_Y6Uh-fVDmT6z0mxjoykxYAH5_g-bFJAoTumQQzqONkb5JgfQ22jbnOPHFe1EyoKFyWKV2ek5DCcJ-uPOXUXn9PqVKPWe8LFAXmy_Gfx9e0cQQ?authuser=2&fife=s16383" height="200" width="auto" /><br><br>NAME: Capella Lodge<br>WEBSITE: https://capellalodge.com.au]]></description>
-        <styleUrl>#icon-1811-DB4436</styleUrl>
-        <ExtendedData>
-          <Data name="NAME">
-            <value>Capella Lodge</value>
-          </Data>
-          <Data name="WEBSITE">
-            <value><![CDATA[https://capellalodge.com.au]]></value>
-          </Data>
-          <Data name="gx_media_links">
-            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvcqIAh8FZaKE-6mwajG3njdN10llDu2mPJA2VKO9W5AEmWUsfoDZDqBXpdbK2OogK8VYPgiLmPU1rEPZ23Udw3A8krfdUrHd954HpY52DSPuImftzOE1OUfPHDzeqsx2hI9Cf0M4MIr_Y6Uh-fVDmT6z0mxjoykxYAH5_g-bFJAoTumQQzqONkb5JgfQ22jbnOPHFe1EyoKFyWKV2ek5DCcJ-uPOXUXn9PqVKPWe8LFAXmy_Gfx9e0cQQ?authuser=2&fife=s16383]]></value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            159.0760768,-31.5500686,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
+  <name>Capella Lodge</name>
+  <description><![CDATA[
+    <img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvcqIAh8FZaKE-6mwajG3njdN10llDu2mPJA2VKO9W5AEmWUsfoDZDqBXpdbK2OogK8VYPgiLmPU1rEPZ23Udw3A8krfdUrHd954HpY52DSPuImftzOE1OUfPHDzeqsx2hI9Cf0M4MIr_Y6Uh-fVDmT6z0mxjoykxYAH5_g-bFJAoTumQQzqONkb5JgfQ22jbnOPHFe1EyoKFyWKV2ek5DCcJ-uPOXUXn9PqVKPWe8LFAXmy_Gfx9e0cQQ?authuser=2&fife=s16383"
+         height="200" width="200" />
+    <br><br>
+    NAME: Capella Lodge<br>
+    WEBSITE: https://capellalodge.com.au
+  ]]></description>
+  <styleUrl>#icon-1811-DB4436</styleUrl>
+  <ExtendedData>
+    <Data name="NAME">
+      <value>Capella Lodge</value>
+    </Data>
+    <Data name="WEBSITE">
+      <value>https://capellalodge.com.au</value>
+    </Data>
+    <Data name="gx_media_links">
+      <value>https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvcqIAh8FZaKE-6mwajG3njdN10llDu2mPJA2VKO9W5AEmWUsfoDZDqBXpdbK2OogK8VYPgiLmPU1rEPZ23Udw3A8krfdUrHd954HpY52DSPuImftzOE1OUfPHDzeqsx2hI9Cf0M4MIr_Y6Uh-fVDmT6z0mxjoykxYAH5_g-bFJAoTumQQzqONkb5JgfQ22jbnOPHFe1EyoKFyWKV2ek5DCcJ-uPOXUXn9PqVKPWe8LFAXmy_Gfx9e0cQQ?authuser=2&fife=s16383</value>
+    </Data>
+  </ExtendedData>
+  <Point>
+    <coordinates>159.0760768,-31.5500686,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
         <name>Punakaiki Beach Camp</name>
         <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKt6QJFeZnOtZpLTlw0M8VuKXRAFtprvd2skQSZXbwI12fu9dg2KB7prpikwaBJzuch0U2zb3MrplV0KzEGu8aCfk2GGV4P0lxmucgUgVkSXO82v1moQnmkQZxWsRYQO49CjxbvZbjpkYwEQR-Ih4bTrg3H7oCnPF4YqE9cMczY6k38LojdgOdiz7O-zLP2kYVX44hypBWflndccA1BvtFJqQsxUSwAfLQ3dWqO4rk_aCZrMb9D9-oG8Hts?authuser=2&fife=s16383" height="200" width="auto" /><br><br>NAME: Nikauscapes - Panakaiki Beach Camp<br>WEBSITE: https://www.punakaikibeachcamp.co.nz/holiday-houses/driftwood-cottage/]]></description>
         <styleUrl>#icon-1811-DB4436</styleUrl>
