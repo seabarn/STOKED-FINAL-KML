@@ -1178,9 +1178,9 @@
           </coordinates>
         </Point>
       </Placemark>
-      <Placemark>
+  <Placemark>
   <name>Capella Lodge</name>
-  <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvcqIAh8FZaKE-6mwajG3njdN10llDu2mPJA2VKO9W5AEmWUsfoDZDqBXpdbK2OogK8VYPgiLmPU1rEPZ23Udw3A8krfdUrHd954HpY52DSPuImftzOE1OUfPHDzeqsx2hI9Cf0M4MIr_Y6Uh-fVDmT6z0mxjoykxYAH5_g-bFJAoTumQQzqONkb5JgfQ22jbnOPHFe1EyoKFyWKV2ek5DCcJ-uPOXUXn9PqVKPWe8LFAXmy_Gfx9e0cQQ?authuser=2&fife=s16383" height="200" width="200" /><br><br>NAME: Capella Lodge<br>WEBSITE: https://capellalodge.com.au/]]></description>
+  <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKvcqIAh8FZaKE-6mwajG3njdN10llDu2mPJA2VKO9W5AEmWUsfoDZDqBXpdbK2OogK8VYPgiLmPU1rEPZ23Udw3A8krfdUrHd954HpY52DSPuImftzOE1OUfPHDzeqsx2hI9Cf0M4MIr_Y6Uh-fVDmT6z0mxjoykxYAH5_g-bFJAoTumQQzqONkb5JgfQ22jbnOPHFe1EyoKFyWKV2ek5DCcJ-uPOXUXn9PqVKPWe8LFAXmy_Gfx9e0cQQ?authuser=2&fife=s16383" height="200" width="auto" /><br><br>NAME: Capella Lodge<br>WEBSITE: https://capellalodge.com.au/]]></description>
   <styleUrl>#icon-1811-DB4436</styleUrl>
   <ExtendedData>
     <Data name="NAME">
@@ -1194,7 +1194,9 @@
     </Data>
   </ExtendedData>
   <Point>
-    <coordinates>159.0760768,-31.5500686,0</coordinates>
+    <coordinates>
+      159.0760768,-31.5500686,0
+    </coordinates>
   </Point>
 </Placemark>
 <Placemark>
