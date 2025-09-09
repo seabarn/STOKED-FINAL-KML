@@ -1491,36 +1491,5 @@
         </Point>
       </Placemark>
     </Folder>
-    <Folder>
-      <name>Directions from Capella Lodge to Capella Lodge</name>
-      <Placemark>
-        <name>Directions from Capella Lodge to Capella Lodge</name>
-        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
-            159.07584,-31.55014,0
-          </coordinates>
-        </LineString>
-      </Placemark>
-      <Placemark>
-        <name>Capella Lodge</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            159.0758409,-31.5501368,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Capella Lodge</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            159.0758409,-31.5501368,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
   </Document>
 </kml>
